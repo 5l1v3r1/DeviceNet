@@ -1,0 +1,14 @@
+17.05.2016 (10:31:01) - Method: Int32 tcpReadRecords(UInt32, UInt32, PerioTcpRdrBase.TAccessRecords ByRef)
+System.ArgumentOutOfRangeException: Year, Month, and Day parameters describe an un-representable DateTime.
+   at System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   at System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   at PerioTcpRdrBase.TcpRdrBase.prBytesToDateTimeEx(Byte[] AValue, Int32 AStartIndex) in C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\Lib\PerioTcpRdrBase.cs:line 2284
+   at PerioTCPRdr.PerioTCPRdrComp.tcpReadRecords(UInt32 StartFrom, UInt32 HowMany, TAccessRecords& Recs) in C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\Lib\PerioTCPRdr.cs:line 2760
+
+17.05.2016 (10:31:04) - Method: Int32 tcpReadRecords(UInt32, UInt32, PerioTcpRdrBase.TAccessRecords ByRef)
+System.ArgumentOutOfRangeException: Year, Month, and Day parameters describe an un-representable DateTime.
+   at System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   at System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   at PerioTcpRdrBase.TcpRdrBase.prBytesToDateTimeEx(Byte[] AValue, Int32 AStartIndex) in C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\Lib\PerioTcpRdrBase.cs:line 2284
+   at PerioTCPRdr.PerioTCPRdrComp.tcpReadRecords(UInt32 StartFrom, UInt32 HowMany, TAccessRecords& Recs) in C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\Lib\PerioTCPRdr.cs:line 2760
+

@@ -1,0 +1,6 @@
+11.09.2017 (10:25:17) - Method: Int32 Send()
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 size, SocketFlags socketFlags)
+   at PerioTcpRdrBase.TcpRdrBase.Send() in C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\Lib\PerioTcpRdrBase.cs:line 1127
+

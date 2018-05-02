@@ -1,0 +1,39 @@
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\bin\Debug\TCPReader.exe.config
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.csprojResolveAssemblyReference.cache
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\bin\Debug\TCPReader.exe
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\bin\Debug\TCPReader.pdb
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmMain.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmHaftaninGunIsimleri.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmHizmetDisiTablosu.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmKontorFiyatListesi.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmPersonCommand.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmTopluAktarim.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmZamanKisitTablosu.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmZilTablosu.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.kontorFiyatListesi.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.Properties.Resources.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.yemekHakTablosu.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.yemekOgunTablosu.resources
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.csproj.GenerateResource.Cache
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.exe
+C:\New_Dev\Projects\PerioTMA\Source\NET\Perio Reader SDK NET\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.pdb
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\bin\Debug\TCPReader.exe.config
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.exe
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.pdb
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\bin\Debug\TCPReader.exe
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\bin\Debug\TCPReader.pdb
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.csprojResolveAssemblyReference.cache
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmMain.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmHaftaninGunIsimleri.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmHizmetDisiTablosu.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmKontorFiyatListesi.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmPersonCommand.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmPersonTZlist.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmTopluAktarim.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmZamanKisitTablosu.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.frmZilTablosu.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.kontorFiyatListesi.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.Properties.Resources.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.yemekHakTablosu.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.yemekOgunTablosu.resources
+C:\New_Dev\Projects\PerioSDK_GitHub\NET_PerioSDK\TCPReader_C#\TcpReader\obj\x86\Debug\TCPReader.csproj.GenerateResource.Cache
